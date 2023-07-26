@@ -2207,9 +2207,15 @@ html,
 		}
 		h1.style3,
 		h2.style3,
-		h3.style3,
-		p.style3 {
+		h3.style3{
 			margin-bottom: 10px;
+		}
+		p.style3 {
+			letter-spacing: 0.021875rem;
+			width: calc(100% + 0.021875rem);
+			font-size: 2em;
+			line-height: 1.5;
+			margin-top: 10px;
 		}
 		h1.style4,
 		h2.style4,
