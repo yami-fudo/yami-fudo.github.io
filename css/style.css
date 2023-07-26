@@ -2205,8 +2205,7 @@ html,
 			font-size: 1em;
 			line-height: 2;
 		}
-		h2.shortmatgin,
-		p.shortmatgin{
+		.shortmatgin{
 			margin-top: 10px;
 			margin-bottom: 10px;
 		}
